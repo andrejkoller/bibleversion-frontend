@@ -1,4 +1,4 @@
-## Short description
+# bibleversion
 
 A modern, responsive Bible reading application built with React that provides access to multiple Bible translations in various languages. Features a clean, customizable interface designed for enhanced scripture study and reading experience.
 
@@ -18,11 +18,11 @@ A modern, responsive Bible reading application built with React that provides ac
 
 ## 🛠️ Technologies Used
 
-- React - Frontend framework
-- React Router - Navigation and routing
-- Material-UI - UI components and icons
-- Scripture API - Bible content and translations
-- Custom Hooks - State management for theme, font size, language, and Bible data
+- React
+- React Router
+- Material-UI
+- Scripture API
+- Custom Hooks
 
 ## 📋 Prerequisites
 
@@ -34,8 +34,8 @@ A modern, responsive Bible reading application built with React that provides ac
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/andrejkoller/bible-frontend.git
-cd bible-frontend
+git clone https://github.com/andrejkoller/bibleversion.git
+cd bibleversion
 ```
 
 2. Install dependencies:
