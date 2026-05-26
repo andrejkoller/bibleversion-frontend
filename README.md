@@ -1,4 +1,4 @@
-## Short description
+# bibleversion
 
 A modern, responsive Bible reading application built with React that provides access to multiple Bible translations in various languages. Features a clean, customizable interface designed for enhanced scripture study and reading experience.
 
@@ -18,11 +18,11 @@ A modern, responsive Bible reading application built with React that provides ac
 
 ## 🛠️ Technologies Used
 
-- React - Frontend framework
-- React Router - Navigation and routing
-- Material-UI - UI components and icons
-- Scripture API - Bible content and translations
-- Custom Hooks - State management for theme, font size, language, and Bible data
+- React
+- React Router
+- Material-UI
+- Scripture API
+- Custom Hooks
 
 ## 📋 Prerequisites
 
@@ -34,8 +34,8 @@ A modern, responsive Bible reading application built with React that provides ac
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/andrejkoller/bible-frontend.git
-cd bible-frontend
+git clone https://github.com/andrejkoller/bibleversion.git
+cd bibleversion
 ```
 
 2. Install dependencies:
@@ -70,25 +70,29 @@ This application uses the [Scripture API](https://scripture.api.bible/). To get 
 
 ## 📸 Screenshots
 
-<img width="1920" height="1080" alt="Screenshot 1" src="https://github.com/user-attachments/assets/43657fc7-8f66-4b55-8102-f1abfdca8084" />
-<img width="1920" height="1080" alt="Screenshot 2" src="https://github.com/user-attachments/assets/b2f6c332-ff13-43f7-ad41-9d67e8e52ef4" />
-<img width="1920" height="1080" alt="Screenshot 3" src="https://github.com/user-attachments/assets/25da4105-630e-41eb-b067-e37911fa9bcf" />
-<img width="1920" height="1080" alt="Screenshot 4" src="https://github.com/user-attachments/assets/c9b51954-cc8c-4d5e-9703-78a4f93dd329" />
-<img width="1920" height="1080" alt="Screenshot 5" src="https://github.com/user-attachments/assets/6edf418f-394d-4673-9b30-3e1e2a0b68d0" />
-<img width="1920" height="1080" alt="Screenshot 6" src="https://github.com/user-attachments/assets/4f563a2f-0f7e-4408-b8cd-caa2f6bfaf19" />
-<img width="1920" height="1080" alt="Screenshot 7" src="https://github.com/user-attachments/assets/89e522b6-b0ac-4740-8b1f-db47b92679b3" />
-<img width="1920" height="1080" alt="Screenshot 8" src="https://github.com/user-attachments/assets/793722ca-cd62-4ccc-874f-707a37e4edad" />
-<img width="1920" height="1080" alt="Screenshot 9" src="https://github.com/user-attachments/assets/893506bf-eb6e-4cf6-8742-2aac3a64a0d5" />
-<img width="1920" height="1080" alt="Screenshot 10" src="https://github.com/user-attachments/assets/8432a80c-9173-43cf-8926-633422ca08a4" />
-<img width="1920" height="1080" alt="Screenshot 11" src="https://github.com/user-attachments/assets/b0b3499f-1fb1-4106-9f14-539db4f1182f" />
-<img width="1920" height="1080" alt="Screenshot (477)" src="https://github.com/user-attachments/assets/99ce2548-61c0-4f19-a75c-06488a2d7601" />
-<img width="1920" height="1080" alt="Screenshot (478)" src="https://github.com/user-attachments/assets/c99de770-7604-401b-91fd-592f2dbeef0a" />
-<img width="1920" height="1080" alt="Screenshot (479)" src="https://github.com/user-attachments/assets/d7a5c554-a04b-4b52-bb77-65fe0a44e92f" />
-<img width="1920" height="1080" alt="Screenshot (480)" src="https://github.com/user-attachments/assets/5b84a84a-755a-47e8-8427-b0ae23283d0d" />
-<img width="1920" height="1080" alt="Screenshot (481)" src="https://github.com/user-attachments/assets/42160520-851b-4699-8797-bcecc171bd33" />
-<img width="1920" height="1080" alt="Screenshot (482)" src="https://github.com/user-attachments/assets/42eeea10-5869-45c5-864f-f161fd43bb1d" />
-<img width="1920" height="1080" alt="Screenshot (483)" src="https://github.com/user-attachments/assets/cc3efc74-be55-462c-a662-490bb2ba6229" />
-<img width="1920" height="1080" alt="Screenshot (484)" src="https://github.com/user-attachments/assets/913d6cf4-4dd2-4aaf-b39e-acda3f816ec7" />
-<img width="1920" height="1080" alt="Screenshot (485)" src="https://github.com/user-attachments/assets/6427a972-a00c-4428-8eb4-bb1b1e550200" />
-<img width="1920" height="1080" alt="Screenshot (486)" src="https://github.com/user-attachments/assets/f47b87d8-1055-4555-8893-8924a6a24daf" />
-<img width="1920" height="1080" alt="Screenshot (487)" src="https://github.com/user-attachments/assets/dd47537f-50ac-412f-a732-68fe012101b0" />
+<img width="1920" height="1084" alt="Screenshot 1" src="https://github.com/user-attachments/assets/8668c0af-407e-4c4d-8bbd-94a37cf50cb0" />
+<img width="1920" height="1084" alt="Screenshot 2" src="https://github.com/user-attachments/assets/038f033c-eccb-416b-8beb-71c526e03f9d" />
+<img width="1920" height="1084" alt="Screenshot 3" src="https://github.com/user-attachments/assets/60b10c5f-4cf3-4355-b1e1-318b4346445a" />
+<img width="1920" height="1084" alt="Screenshot 4" src="https://github.com/user-attachments/assets/e3762f6a-4ee4-40d2-97e1-3470760b0893" />
+<img width="1920" height="1084" alt="Screenshot 5" src="https://github.com/user-attachments/assets/ce89c5aa-2fe2-4630-a099-f448773a7694" />
+<img width="1920" height="1084" alt="Screenshot 6" src="https://github.com/user-attachments/assets/61988810-2c55-4a71-94d0-35198a08b384" />
+<img width="1920" height="1084" alt="Screenshot 7" src="https://github.com/user-attachments/assets/ed1e6e7d-e49d-485c-a774-c97c98eb60be" />
+<img width="1920" height="1084" alt="Screenshot 8" src="https://github.com/user-attachments/assets/a1861712-3d2a-488a-8d5f-b93dc6fef91f" />
+<img width="1920" height="1084" alt="Screenshot 9" src="https://github.com/user-attachments/assets/c2c30c21-4052-4e7c-bf7b-1ee12e785443" />
+<img width="1920" height="1084" alt="Screenshot 10" src="https://github.com/user-attachments/assets/82534c92-0b1a-41ef-a540-7f5aa22a1416" />
+<img width="1920" height="1084" alt="Screenshot 11" src="https://github.com/user-attachments/assets/f95ff854-cdfa-4d99-89e3-001368e30fbc" />
+<img width="1920" height="1084" alt="Screenshot 12" src="https://github.com/user-attachments/assets/a6a4aaa4-9f03-4342-a5cf-467e1bf9c9fa" />
+<img width="1920" height="1084" alt="Screenshot 13" src="https://github.com/user-attachments/assets/18d783f1-c7a3-446c-9cf3-63211fa87abc" />
+<img width="1920" height="1084" alt="Screenshot 14" src="https://github.com/user-attachments/assets/ca80ffbb-31fe-4326-8cf3-35aaa5a33e43" />
+<img width="1920" height="1084" alt="Screenshot 15" src="https://github.com/user-attachments/assets/7c0b4c38-7472-4202-ba34-a2ca6af9ac05" />
+<img width="1926" height="1084" alt="Screenshot 16" src="https://github.com/user-attachments/assets/b588ebc6-49e6-485c-a704-a7cbcdcc5b70" />
+<img width="1920" height="1084" alt="Screenshot 17" src="https://github.com/user-attachments/assets/979c8e97-71ad-489e-87c6-11edd6a44c02" />
+<img width="1920" height="1084" alt="Screenshot 18" src="https://github.com/user-attachments/assets/150cf746-af8d-4a70-b05c-9e049e52337b" />
+<img width="1920" height="1084" alt="Screenshot 19" src="https://github.com/user-attachments/assets/541008ad-ff1d-40aa-9f30-19b1c555aeb0" />
+<img width="1920" height="1084" alt="Screenshot 20" src="https://github.com/user-attachments/assets/4db8163c-342a-4403-a674-9dd06e18c26c" />
+<img width="1920" height="1084" alt="Screenshot 21" src="https://github.com/user-attachments/assets/8d1ed95e-dcda-4eee-b4a0-03c6236d77b4" />
+<img width="1920" height="1084" alt="Screenshot 22" src="https://github.com/user-attachments/assets/7ec6e330-7147-4495-9dec-acfed11d3244" />
+<img width="1920" height="1084" alt="Screenshot 23" src="https://github.com/user-attachments/assets/ba8b94ef-650e-462e-acab-ac96f34b91f5" />
+<img width="1920" height="1084" alt="Screenshot 24" src="https://github.com/user-attachments/assets/08dfde41-0151-4c6e-98ce-2443c6dd59d9" />
+<img width="1920" height="1084" alt="Screenshot 25" src="https://github.com/user-attachments/assets/5816a695-c0f7-4bbe-9f29-01bea81e265f" />
+<img width="1920" height="1084" alt="Screenshot 26" src="https://github.com/user-attachments/assets/27a8180d-97d9-462d-8f19-bf89700b5731" />
