@@ -1,4 +1,4 @@
-# bible-frontend
+# bibleversion
 
 A modern, responsive Bible reading application built with React that provides access to multiple Bible translations in various languages. Designed for an enhanced scripture study and reading experience.
 
@@ -68,7 +68,7 @@ This application uses the [Scripture API](https://scripture.api.bible/). To get 
 ## Project Structure
 
 ```
-bible-frontend/
+bibleversion/
 ├── public/
 │   ├── index.html
 │   ├── fonts/
